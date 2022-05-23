@@ -70,7 +70,7 @@
     margin-top: 10%;
 
     &_image {
-        background-image: url(../me.jpg);
+        background-image: url(../images/me.jpg);
         width: 50%;
         height: 100%;
         background-size: 100%;
@@ -137,6 +137,7 @@
 
 .copyright, p
     {
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -146,6 +147,7 @@
     color: white;
     margin-top: 3%;
 }
+
 [class ^="box-"] {
     display: grid;
     place-content: center;
